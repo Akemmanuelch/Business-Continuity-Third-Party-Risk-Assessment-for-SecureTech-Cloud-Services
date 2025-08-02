@@ -1,0 +1,2 @@
+# Business-Continuity-Third-Party-Risk-Assessment-for-SecureTech-Cloud-Services
+This project simulates a GRC initiative to ensure resilience and risk transparency in a fictional company, SecureTech, that provides cloud-based services. The focus is on developing a Business Continuity Plan (BCP), assessing third-party vendors for risk (TPRM), and maintaining a simplified Risk Register and Risk Assessment Matrix
