@@ -13,14 +13,14 @@ This project showcases core GRC (Governance, Risk & Compliance) capabilities wit
 
 ---
 
-## 📁 Folder Breakdown
+### 📁 Folder Breakdown
 
-| Folder | Description |
-|--------|-------------|
-| `01-business-continuity-plan/` | Step-by-step Business Continuity Plan (BCP) for SecureTech’s core cloud services |
-| `02-risk-register-matrix/`     | Risk Register and a qualitative Risk Assessment Matrix |
-| `03-vendor-risk-assessment/`   | A Third-Party Risk Management (TPRM) form & criteria |
-| `04-mitigation-summary/`       | A breakdown of mitigation measures and justifications |
-| `05-action-items/`             | Assigned and time-bound actions to close risk gaps |
+| Folder/File | Description |
+|-------------|-------------|
+| [01-business-continuity-plan.md](docs/01-business-continuity-plan.md) | Step-by-step Business Continuity Plan (BCP) for SecureTech’s core cloud services. |
+| [02-risk-register-matrix.md](docs/02-risk-register-matrix.md) | Risk Register and a qualitative Risk Assessment Matrix. |
+| [03-vendor-risk-assessment.md](docs/03-vendor-risk-assessment.md) | A Third-Party Risk Management (TPRM) matrix with criteria. |
+| [04-mitigation-summary.md](docs/04-mitigation-summary.md) | A breakdown of mitigation measures and justifications. |
+| [05-action-items.md](05-action-items.md) | Assigned and time-bound actions to close risk gaps (aligned with ISO 27001, FAIR, NIST, PCI-DSS). |
 
 > ⚠️ All content is fictional but modeled after real GRC standards like ISO 27001, FAIR, NIST, and PCI DSS.
